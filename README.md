@@ -3,7 +3,7 @@ PowerShell cmdlets for administering Thinktecture IdentityServer3's Clients &amp
 
 ## Motive
 
-IdentityServer3 is great, but the lack of administrative tools especially for devops and production teams who are not willing to hack into an unknown database may hamper adoption. This is an attempt to fix that, until there's something official which can perform this task. You can include this PowerShell module in deployment/install packages, use give it to the devops so they can perform occassional maintenance of clients and scopes with it.
+IdentityServer3 is great, but the lack of administrative tools especially for devops and production teams who are not willing to hack into an unknown database may hamper adoption. This is an attempt to fix that, until there's something official which can perform this task. You can include this PowerShell module in deployment/install packages, use in scripts or give it to the devops so they can perform occassional maintenance of clients and scopes.
 
 ## Getting started
 
